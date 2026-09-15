@@ -1,7 +1,6 @@
 num=int(input("Enter A Number:"))
 count=0
-i=2cls
-
+i=2
 
 while i<=num:
 	flag=True
